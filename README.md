@@ -1,4 +1,4 @@
-# Docus Starter
+# Docus Template Splaisir MD Front
 
 Starter template for [Docus](https://docus.dev).
 
