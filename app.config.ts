@@ -3,7 +3,7 @@ export default defineAppConfig({
     title: 'Splaisir MD',
     description: 'The best place to start your documentation.',
     // image: 'https://user-images.githubusercontent.com/904724/185365452-87b7ca7b-6030-4813-a2db-5e65c785bf88.png',
-    image: '/public/image.png',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-92fNF1pm-5aAvZjhUeHuNdqO2_TbTFW1vA&usqp=CAU',
     socials: {
       twitter: 'nuxt_js',
       github: 'dooyou123/docus',
