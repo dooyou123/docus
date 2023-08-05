@@ -1,3 +1,3 @@
 <template>
-    <img width="120" src="/public/image.png"/>
+    <img width="240" src="/public/image.png"/>
   </template>
