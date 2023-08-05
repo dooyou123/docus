@@ -14,7 +14,7 @@ export default defineAppConfig({
       }
     },
     github: {
-      dir: '.content',
+      dir: 'content',
       branch: 'main',
       repo: 'docus',
       owner: 'dooyou123',
