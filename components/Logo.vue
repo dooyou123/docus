@@ -1,3 +1,3 @@
 <template>
-    <img width="180" src="/public/image.png"/> MD FRONT
+    <img width="180" src="/public/image.png"/> 
   </template>
