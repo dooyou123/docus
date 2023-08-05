@@ -29,6 +29,7 @@ export default defineAppConfig({
       fluid: true
     },
     header: {
+      title: 'Splaisir MD',
       logo: true,
       showLinkIcon: true,
       exclude: [],
