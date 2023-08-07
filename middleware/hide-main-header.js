@@ -2,7 +2,7 @@
 export default function ({ app }) {
     const hideHeaderOnMainPage = () => {
         if (process.client) {
-            const header = document.querySelector('.app-header');
+            const header = document.querySelector('#__nuxt > div > header');
             if (header) {
                 if (app.router.currentRoute.path === '/') {
                     header.style.display = 'none';
