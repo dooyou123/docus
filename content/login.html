@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+</head>
+<body>
+    <button type="button" id="button">Next Page</button>
+    <script>
+        const button = document.getElementById("button");
+
+        button.addEventListener("click", () => {
+        // Get the password from the user.
+        const password = prompt("Please enter your password: ");
+
+        // If the password is correct, go to the next page.
+        if (password === "hotels0900!") {
+            window.location.href = "/introduction/getting-started";
+        } else {
+            alert("Invalid password.");
+        }
+        });
+    </script>
+</body>
+</html>
