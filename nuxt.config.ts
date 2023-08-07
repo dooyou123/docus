@@ -11,8 +11,4 @@ export default defineNuxtConfig({
     '@nuxtjs/axios'
 
   ]
-  axios: {
-    baseURL: 'https://api.example.com'
-    // baseURL 설정 (예: 'https://api.example.com')
-  },
 })
